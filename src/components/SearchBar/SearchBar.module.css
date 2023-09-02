@@ -1,0 +1,27 @@
+
+.input {
+    margin: 15px;
+    background-color: rgba(34, 42, 49, 0.849);
+    color: rgb(244, 44, 137);
+    height:min-content;
+    font-weight: bold ;
+}
+
+
+.button {
+    font-weight: bolder;
+    border-radius: 10%;
+    background-color: rgb(244, 44, 154);
+    color: rgb(0, 0, 0);
+    width: 75px;
+    margin-right: 5px;
+}
+  .button:hover {
+    background-color: rgb(23, 33, 42);
+    color: rgb(244, 44, 137);
+    
+    box-shadow: 1px 1px rgb(255, 255, 255);
+  }
+  .button:active {
+    box-shadow: 2px 2px rgb(0, 0, 0);
+  }

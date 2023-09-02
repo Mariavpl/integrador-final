@@ -1,0 +1,22 @@
+.about {
+    margin-top: 15px;
+    display: flex;
+    color: rgb(236, 177, 222);
+    flex-direction: column;
+    align-items: center;
+}
+
+.about2 {
+    width: 50%;
+    background-color:  rgb(36, 41, 46);
+}
+
+.h2 {
+    color: rgb(255, 24, 243);
+    font-family: "Get Schwifty", TrueType;
+    font-size: xx-large;
+}
+
+.span {
+    opacity: 100;
+}
